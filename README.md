@@ -103,3 +103,65 @@ See READMEs of individual packages under the `packages` directory.
 
 ### License
 [Apache License 2.0](LICENSE)
+
+
+
+
+<br>
+
+#### <span style="color:#0a295c; font-family: 'Times New Roman'; font-size: 1.0em;">&nbsp;&nbsp; WORKDUCK</span>
+# <span style="color:#00000; font-family: 'Times New Roman'; font-size: 1.2em;">&nbsp; Minutes Of The Meeting </span>(<span style="color:#0a295c";font-size: 0.5em;>09/04</span>)
+
+<div style="padding-left: 25px;">
+	<b><span style="color:#b82e7c;  font-size: 1em;"> 04 SEPTEMBER 20XX / 4:30 PM / ROOM 436 </span></b>
+</div>
+
+### <span style="color:#251763; font-family: 'Times New Roman'; font-size: 0.95em;"> ATTENDEES </span>
+<div style="padding-left: 70px;">
+ Ruddhi, Rishank, Mihir
+</div>
+
+### <span style="color:#251763; font-family: 'Times New Roman'; font-size: 0.95em;"> AGENDA </span>
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Last meeting's follow-up:
+<div style="padding-left: 70px;">
+	1. Testing platform deployed
+</div>
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; New business:
+<div style="padding-left: 70px;">
+	1. Platform deployed
+</div>
+
+### <span style="color:#251763; font-family: 'Times New Roman'; font-size: 0.95em;"> NOTES </span>
+
+>	Great meeting notes here generate using GPT:3 
+
+### <span style="color:#251763; font-family: 'Times New Roman'; font-size: 0.95em;"> TODO </span>
+<div style="padding-left: 15px;">
+    <ul>
+        <li> Mex </li>
+        <li> Testing the testing platform </li>
+        <li> Private beta </li>
+        <li> Image similarity algorithm </li>
+    </ul>
+</div>   
+
+### <span style="color:#251763; font-family: 'Times New Roman'; font-size: 0.95em;"> NEXT WEEK'S AGENDA </span>
+
+>	Great meeting notes here generate using GPT:3 
+<div style="padding-left: 15px;">
+    <ul>
+        <li> V0 </li>
+        <li> V1 </li>
+    </ul>
+</div>   
+
+
+
+<br><br><br><br><br><br>
+
+
+
+
+
+
+
